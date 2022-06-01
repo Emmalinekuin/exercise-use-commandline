@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(235, 235, 235);
+  margin: 0px;
+}
+
+.menu-icon {
+  width: 75px;
+}
+
+.nav-list-items {
+  list-style: none;
+  display: block;
+  flex-direction: column;
+  width: 300px;
+  border: 2px solid rgb(235, 235, 235);
+  padding: 0;
+  margin: 0;
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
+
+.grey-background {
+  background-color: rgb(235, 235, 235);
+}
+
+.red-background {
+  background-color: red;
+}
+
+.orange-background {
+  background-color: orange;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+.green-background {
+  background-color: green;
+}
+
+#home {
+  border-bottom: 2px solid rgb(235, 235, 235);
+  height: 40px;
+  background-color: rgb(235, 235, 235);
+}
+
+#red {
+  border-bottom: 2px solid rgb(235, 235, 235);
+  height: 40px;
+  background-color: red;
+}
+
+#orange {
+  border-bottom: 2px solid rgb(235, 235, 235);
+  height: 40px;
+  background-color: orange;
+}
+
+#purple {
+  border-bottom: 2px solid rgb(235, 235, 235);
+  height: 40px;
+  background-color: purple;
+}
+
+#green {
+  height: 40px;
+  background-color: green;
+}
